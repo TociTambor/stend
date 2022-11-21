@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+#nachalo{
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline 1px;
+    
+  }
+  #fon{
+    text-align: center;
+  }
+
+  #spisok{
+    font-size: 15px;
+    font-weight: bold;
+  }
+  #tablo{
+    font-size: 13px;
+    
+  }
+  #selfs{
+    text-align: center;
+    font-size: 15px;
+  }
+ 
